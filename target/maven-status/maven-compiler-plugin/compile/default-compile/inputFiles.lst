@@ -1,0 +1,9 @@
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/model/Phones.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/services/IPersonService.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/config/SpringFoxConfig.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/model/Person.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/PersonServiceApplication.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/model/PersonSave.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/controllers/PersonController.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/services/PersonServiceImpl.java
+/Users/jakspok/Downloads/person-service/src/main/java/co/com/person/service/api/repositories/IPersonRepository.java

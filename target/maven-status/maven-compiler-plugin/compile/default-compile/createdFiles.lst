@@ -1,0 +1,11 @@
+co/com/person/service/api/PersonServiceApplication.class
+co/com/person/service/api/controllers/PersonController.class
+co/com/person/service/api/services/IPersonService.class
+co/com/person/service/api/config/SpringFoxConfig.class
+co/com/person/service/api/model/PersonSave.class
+co/com/person/service/api/model/Phones$PhonesBuilder.class
+co/com/person/service/api/model/PersonSave$PersonSaveBuilder.class
+co/com/person/service/api/model/Phones.class
+co/com/person/service/api/repositories/IPersonRepository.class
+co/com/person/service/api/services/PersonServiceImpl.class
+co/com/person/service/api/model/Person.class
